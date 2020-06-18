@@ -31,6 +31,6 @@ Which gives us:
 ```
 -0.088672927072602
 ```
-`**Which implies that the second group (others, i.e. non-first-pregnancies) tend to be heavier. By how much? Interpreting Cohen's d implies that the mean weight of non-first-pregnancy births is 0.09 standard deviations heaver than first-pregnancy births' mean weight. This effect is roughly three times as significant as the effect in lengths of pregnancies.**`
+**Which implies that the second group (others, i.e. non-first-pregnancies) tend to be heavier. By how much? Interpreting Cohen's d implies that the mean weight of non-first-pregnancy births is 0.09 standard deviations heaver than first-pregnancy births' mean weight. This effect is roughly three times as significant as the effect in lengths of pregnancies.**
 
 
