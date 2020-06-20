@@ -13,7 +13,7 @@ thinkplot.subplot(2)
 thinkplot.Cdf(cdf)
 thinkplot.Config(xlabel='Number)', ylabel='CDF')
 ```
-![](4.2.png)
+![PMF and CDF](4.2.png)
 
 It clearly shows, by the CDF, that the ditribution is uniform.
 
