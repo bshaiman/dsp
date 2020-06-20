@@ -30,4 +30,4 @@ thinkplot.Pmfs([numkdhh_pmf, bias_pmf])
 thinkplot.Show(xlabel='Children per household', ylabel='PMF')
 ```
 Which gives us:
-![](3.1pmfs.png)
+```![](3.1pmfs.png)```
