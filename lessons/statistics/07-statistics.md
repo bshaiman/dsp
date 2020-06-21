@@ -94,7 +94,8 @@ We can think of the posterior as the probability of Elvis being identical, given
 ### Q6. Bayesian &amp; Frequentist Comparison  
 How do frequentist and Bayesian statistics compare?
 
-***At a very remedial level, frequentist statistics apply more towards the traditional, rudimentary examples one might deal with in a class. Rolling a dice, drawing a card, etc. It deals only with repeatable, random events. Bayesian statistics udnerstands that even if an event is unique, and we do not have prior outcomes to use in prediction of a novel one, there is still relevant information available for use.***
+***At a very remedial level, frequentist statistics apply more towards the traditional, rudimentary examples one might deal with in a class. Rolling a dice, drawing a card, etc. It deals only with repeatable, random events. Bayesian statistics udnerstands that even if an event is unique, and we do not have prior outcomes to use in prediction of a novel one, there is still relevant information available for use.
+For example, how likely a random person in apopulation is to contract a virus might easily be a frequentist statistic. How likely a given person is to contract a virus, or how likely it is that a pandemic will arise -- these are would require more Baysian thinking.***
 
 ---
 
